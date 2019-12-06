@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "parcel build index.css"
+    "test": "parcel build index.css",
+    "test-pass": "parcel build index-pass.css"
   },
   "author": "",
   "license": "ISC",
